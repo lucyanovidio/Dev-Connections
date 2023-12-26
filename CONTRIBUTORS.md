@@ -968,3 +968,10 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+## Name: Nicollas Holz Eberhardt
+- Place: Brazil
+- Job: College Student
+- Github: [NicollasHolz](https://github.com/NicollasHolz)
+- LinkedIn: [Nicollas Holz Eberhardt](https://www.linkedin.com/in/nicollas-holz-eberhardt-490327232/)
+- Twitter: [Holz_Nicollas](https://twitter.com/Holz_Nicollas)
